@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noura-Saad123
+- 👋 Hi, I’m Noura Saad , I'm Student at Faculty of Computers ana Artificial Intelligence in Information Systems Department
 - 👀 I’m interested in Web Development and Data Analytics
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
